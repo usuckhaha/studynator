@@ -9,7 +9,7 @@ Author: @usuckhaha
 */
 public class Main {
     public static void main(String[] args) {
-        int i=3;
+        int i=4;
         System.println("Welcome to Studynator!!!\n\nReady to get Studynated?");
     }
 }
